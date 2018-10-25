@@ -1,26 +1,28 @@
 ## Willkommen auf der Internetseite des F+E-Projektes Vet:ProVieh der Hochschule Osnabrück
 
-Projektname:      Vet:ProVieh - Business 4.0 Lösung für Veterinärmediziner zur Optimierung der Tiergesundheit 
-Projektlaufzeit:  3 Jahre 
+'''Projektname:
+  Vet:ProVieh - Business 4.0 Lösung für Veterinärmediziner zur Optimierung der Tiergesundheit 
+# Projektlaufzeit:  
+  3 Jahre (noch nicht gestartet)
 
-#Projektleitung:
+# Projektleitung:
   Prof. Dr.-Ing. Rainer Roosmann
   Professur für Software-Architektur und -Design, Hochschule Osnabrück
   Telefonnr.: +49 541 969 3346, E-Mail: r.roosmann@hs-osnabrueck.de
 
-#Beteiligte Professoren der Hochschule Osnabrück:
+# Beteiligte Professoren der Hochschule Osnabrück:
   Prof. Dr. Rainer Roosmann: Software-Architektur, DevOps und Software-Entwicklung 
   Prof. Dr. Heiko Tapken: Datenmanagement und -analyse 
   Prof. Dr. Alfred Scheerhorn: IT-Security
 
-#Kooperationspartner: 
+# Kooperationspartner: 
   Münch Gesellschaft für IT-Solutions mbh, Lohne 
   Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Oldenburg 
   Tierarztpraxis Stephan Göken, Emstek 
   Tierärztliche Gemeinschaftspraxis WEK, Visbek 
   iuk-Unternehmensnetzwerk e.V., Osnabrück
 
-#Projektbeschreibung
+# Projektbeschreibung
 Die Agrar- und Ernährungswirtschaft stellt in Niedersachsen einen starken Wirtschaftszweig dar, der mit ca. 14% zum Bruttoinlandsprodukt des Bundeslandes beiträgt. Während die Anzahl der landwirtschaftlichen Betriebe über die Jahre kontinuierlich zurückgeht, erhöht sich die Anzahl der gehaltenen Nutztiere pro Betrieb. Im Jahr 2014 betrug der Anteil der Nutztierhaltung Niedersachsens an den bundesdeutschen Gesamtzahlen 20,9% für Rindvieh, 31,4% für Schweine, 38,7% für Legehennen und 64,4% für Masthühner / -hähne.
 
 Die Branchen dieses Wirtschaftszweiges stehen seit Jahren vor großen Herausforderungen aufgrund von Konzentrations-, Spezialisierungs- und Intensivierungsprozessen. Damit einher gehen Probleme im Bereich der Tiergesundheit, die u. a. auf diese Prozesse zurückzuführen sind. Die Medikamentierung und konkret der Einsatz von Antibiotika im Kampf gegen Infektionskrankheiten, wird aktuell kritisch beobachtet, da der Anteil an antibiotikaresistenten Bakterien für die meisten Bakterienstämme in den letzten Jahren zugenommen hat.
