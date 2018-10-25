@@ -9,11 +9,9 @@
   3 Jahre (noch nicht gestartet)
 
 ## "Projektleitung":
-Prof. Dr.-Ing. Rainer Roosmann
-
-Professur für Software-Architektur und -Design, Hochschule Osnabrück
-
-Telefonnr.: +49 541 969 3346, [E-Mail]: (r.roosmann@hs-osnabrueck.de)
+Prof. Dr.-Ing. Rainer Roosmann<br>
+Professur für Software-Architektur und -Design, Hochschule Osnabrück<br>
+Telefonnr.: +49 541 969 3346, [E-Mail]: (r.roosmann@hs-osnabrueck.de)<br>
 
 ## Beteiligte Professoren der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/):
 * Prof. Dr. Rainer Roosmann: Software-Architektur, DevOps und Software-Entwicklung 
