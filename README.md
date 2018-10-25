@@ -48,6 +48,7 @@ Es ist zu erwarten, dass bei einem Erfolg der Business 4.0 Lösung für Veternin
 * Probleme bei der Nutztierhaltung zu identifizieren / analysieren / bewerten,
 * proaktive und reaktive Maßnahmen zu planen / überwachen / evaluieren und 
 * auf einer Wissensbasis Best-Practises abzuleiten, 
+
 entsprechender Werkzeuge bzw. Systeme zur Datenanalyse. Im Rahmen dieses Projektes sollen die Themen Big-Data, Datenanalyse und Business Intelligence nur in soweit betrachtet werden, um Vorkehrungen für eine spätere Integration zu treffen und dies möglichst in der Software-Architektur vorzubereiten.
 
 Bei weiteren Fragen zum Projekt, wenden Sie sich gerne an den [Projektleiter][].
