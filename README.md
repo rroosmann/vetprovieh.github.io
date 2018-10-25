@@ -1,6 +1,6 @@
 # Willkommen auf der Internetseite des F+E-Projektes Vet:ProVieh der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/)
 
-##Projektname:
+## Projektname:
   Vet:ProVieh - Business 4.0 Lösung für Veterinärmediziner zur Optimierung der Tiergesundheit 
 
 ## Projektlaufzeit:  
