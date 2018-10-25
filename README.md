@@ -1,4 +1,4 @@
-# Willkommen auf der Informationsseite zum F+E-Projekt Vet:ProVieh der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/)
+# Willkommen auf der Informationsseite zum F+E-Projekt "Vet:ProVieh" der Hochschule Osnabrück
 
 * * *
 
@@ -8,7 +8,7 @@
 ## Projektlaufzeit:  
   3 Jahre (noch nicht gestartet)
 
-## "Projektleitung":
+## Projektleitung:
 Prof. Dr.-Ing. Rainer Roosmann<br>
 Professur für Software-Architektur und -Design, Hochschule Osnabrück<br>
 Telefonnr.: +49 541 969 3346, [E-Mail]: (r.roosmann@hs-osnabrueck.de)<br>
@@ -49,4 +49,4 @@ Es ist zu erwarten, dass bei einem Erfolg der Business 4.0 Lösung für Veternin
 
 entsprechender Werkzeuge bzw. Systeme zur Datenanalyse. Im Rahmen dieses Projektes sollen die Themen Big-Data, Datenanalyse und Business Intelligence nur in soweit betrachtet werden, um Vorkehrungen für eine spätere Integration zu treffen und dies möglichst in der Software-Architektur vorzubereiten.
 
-Bei weiteren Fragen zum Projekt, wenden Sie sich gerne an den [Projektleiter][].
+Bei weiteren Fragen zum Projekt, wenden Sie sich gerne an den [Projektleiter](mailto:r.roosmann@hs-osnabrueck.de).
