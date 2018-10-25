@@ -1,26 +1,27 @@
-## Willkommen auf der Internetseite des F+E-Projektes Vet:ProVieh der Hochschule Osnabrück
+## Willkommen auf der Internetseite des F+E-Projektes Vet:ProVieh der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/)
 
-'''Projektname:
+```Projektname:
   Vet:ProVieh - Business 4.0 Lösung für Veterinärmediziner zur Optimierung der Tiergesundheit 
+
 # Projektlaufzeit:  
   3 Jahre (noch nicht gestartet)
 
 # Projektleitung:
   Prof. Dr.-Ing. Rainer Roosmann
   Professur für Software-Architektur und -Design, Hochschule Osnabrück
-  Telefonnr.: +49 541 969 3346, E-Mail: r.roosmann@hs-osnabrueck.de
+  Telefonnr.: +49 541 969 3346, [E-Mail]: (r.roosmann@hs-osnabrueck.de)
 
-# Beteiligte Professoren der Hochschule Osnabrück:
+# Beteiligte Professoren der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/):
   Prof. Dr. Rainer Roosmann: Software-Architektur, DevOps und Software-Entwicklung 
   Prof. Dr. Heiko Tapken: Datenmanagement und -analyse 
   Prof. Dr. Alfred Scheerhorn: IT-Security
 
 # Kooperationspartner: 
-  Münch Gesellschaft für IT-Solutions mbh, Lohne 
-  Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Oldenburg 
-  Tierarztpraxis Stephan Göken, Emstek 
-  Tierärztliche Gemeinschaftspraxis WEK, Visbek 
-  iuk-Unternehmensnetzwerk e.V., Osnabrück
+  [Münch Gesellschaft für IT-Solutions mbh, Lohne](https://www.muench-its.de/)
+  [Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Oldenburg](http://www.laves.niedersachsen.de/startseite/)
+  [Tierarztpraxis Stephan Göken, Emstek](https://tierarztpraxis-emstek.de/)
+  [Tierärztliche Gemeinschaftspraxis WEK, Visbek](http://wek-visbek.de/)
+  [iuk-Unternehmensnetzwerk e.V., Osnabrück](https://www.iukos.de/)
 
 # Projektbeschreibung
 Die Agrar- und Ernährungswirtschaft stellt in Niedersachsen einen starken Wirtschaftszweig dar, der mit ca. 14% zum Bruttoinlandsprodukt des Bundeslandes beiträgt. Während die Anzahl der landwirtschaftlichen Betriebe über die Jahre kontinuierlich zurückgeht, erhöht sich die Anzahl der gehaltenen Nutztiere pro Betrieb. Im Jahr 2014 betrug der Anteil der Nutztierhaltung Niedersachsens an den bundesdeutschen Gesamtzahlen 20,9% für Rindvieh, 31,4% für Schweine, 38,7% für Legehennen und 64,4% für Masthühner / -hähne.
