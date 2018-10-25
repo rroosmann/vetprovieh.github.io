@@ -16,14 +16,14 @@
 * Prof. Dr. Heiko Tapken: Datenmanagement und -analyse 
 * Prof. Dr. Alfred Scheerhorn: IT-Security
 
-# Kooperationspartner: 
+## Kooperationspartner: 
 * [Münch Gesellschaft für IT-Solutions mbh, Lohne](https://www.muench-its.de/)
 * [Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Oldenburg](http://www.laves.niedersachsen.de/startseite/)
 * [Tierarztpraxis Stephan Göken, Emstek](https://tierarztpraxis-emstek.de/)
 * [Tierärztliche Gemeinschaftspraxis WEK, Visbek](http://wek-visbek.de/)
 * [iuk-Unternehmensnetzwerk e.V., Osnabrück](https://www.iukos.de/)
 
-# Projektbeschreibung
+## Projektbeschreibung
 Die Agrar- und Ernährungswirtschaft stellt in Niedersachsen einen starken Wirtschaftszweig dar, der mit ca. 14% zum Bruttoinlandsprodukt des Bundeslandes beiträgt. Während die Anzahl der landwirtschaftlichen Betriebe über die Jahre kontinuierlich zurückgeht, erhöht sich die Anzahl der gehaltenen Nutztiere pro Betrieb. Im Jahr 2014 betrug der Anteil der Nutztierhaltung Niedersachsens an den bundesdeutschen Gesamtzahlen 20,9% für Rindvieh, 31,4% für Schweine, 38,7% für Legehennen und 64,4% für Masthühner / -hähne.
 
 Die Branchen dieses Wirtschaftszweiges stehen seit Jahren vor großen Herausforderungen aufgrund von Konzentrations-, Spezialisierungs- und Intensivierungsprozessen. Damit einher gehen Probleme im Bereich der Tiergesundheit, die u. a. auf diese Prozesse zurückzuführen sind. Die Medikamentierung und konkret der Einsatz von Antibiotika im Kampf gegen Infektionskrankheiten, wird aktuell kritisch beobachtet, da der Anteil an antibiotikaresistenten Bakterien für die meisten Bakterienstämme in den letzten Jahren zugenommen hat.
