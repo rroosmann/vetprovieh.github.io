@@ -1,27 +1,27 @@
-## Willkommen auf der Internetseite des F+E-Projektes Vet:ProVieh der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/)
+# Willkommen auf der Internetseite des F+E-Projektes Vet:ProVieh der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/)
 
-```Projektname:
+##Projektname:
   Vet:ProVieh - Business 4.0 Lösung für Veterinärmediziner zur Optimierung der Tiergesundheit 
 
-# Projektlaufzeit:  
+## Projektlaufzeit:  
   3 Jahre (noch nicht gestartet)
 
-# Projektleitung:
-  Prof. Dr.-Ing. Rainer Roosmann
-  Professur für Software-Architektur und -Design, Hochschule Osnabrück
-  Telefonnr.: +49 541 969 3346, [E-Mail]: (r.roosmann@hs-osnabrueck.de)
+## Projektleitung:
+>Prof. Dr.-Ing. Rainer Roosmann
+>Professur für Software-Architektur und -Design, Hochschule Osnabrück
+>Telefonnr.: +49 541 969 3346, [E-Mail]: (r.roosmann@hs-osnabrueck.de)
 
-# Beteiligte Professoren der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/):
-  Prof. Dr. Rainer Roosmann: Software-Architektur, DevOps und Software-Entwicklung 
-  Prof. Dr. Heiko Tapken: Datenmanagement und -analyse 
-  Prof. Dr. Alfred Scheerhorn: IT-Security
+## Beteiligte Professoren der [Hochschule Osnabrück](https://www.hs-osnabrueck.de/):
+* Prof. Dr. Rainer Roosmann: Software-Architektur, DevOps und Software-Entwicklung 
+* Prof. Dr. Heiko Tapken: Datenmanagement und -analyse 
+* Prof. Dr. Alfred Scheerhorn: IT-Security
 
 # Kooperationspartner: 
-  [Münch Gesellschaft für IT-Solutions mbh, Lohne](https://www.muench-its.de/)
-  [Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Oldenburg](http://www.laves.niedersachsen.de/startseite/)
-  [Tierarztpraxis Stephan Göken, Emstek](https://tierarztpraxis-emstek.de/)
-  [Tierärztliche Gemeinschaftspraxis WEK, Visbek](http://wek-visbek.de/)
-  [iuk-Unternehmensnetzwerk e.V., Osnabrück](https://www.iukos.de/)
+* [Münch Gesellschaft für IT-Solutions mbh, Lohne](https://www.muench-its.de/)
+* [Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, Oldenburg](http://www.laves.niedersachsen.de/startseite/)
+* [Tierarztpraxis Stephan Göken, Emstek](https://tierarztpraxis-emstek.de/)
+* [Tierärztliche Gemeinschaftspraxis WEK, Visbek](http://wek-visbek.de/)
+* [iuk-Unternehmensnetzwerk e.V., Osnabrück](https://www.iukos.de/)
 
 # Projektbeschreibung
 Die Agrar- und Ernährungswirtschaft stellt in Niedersachsen einen starken Wirtschaftszweig dar, der mit ca. 14% zum Bruttoinlandsprodukt des Bundeslandes beiträgt. Während die Anzahl der landwirtschaftlichen Betriebe über die Jahre kontinuierlich zurückgeht, erhöht sich die Anzahl der gehaltenen Nutztiere pro Betrieb. Im Jahr 2014 betrug der Anteil der Nutztierhaltung Niedersachsens an den bundesdeutschen Gesamtzahlen 20,9% für Rindvieh, 31,4% für Schweine, 38,7% für Legehennen und 64,4% für Masthühner / -hähne.
@@ -41,9 +41,9 @@ Die Einhaltung der definierten Eigenschaften ist allerdings nur über den massiv
 Das Thema Sicherheit ist besonders hoch zu gewichten. Zwischen dem Tierhalter und dem Tierarzt herrscht ein Vertrauensverhältnis. Lassen sich bspw. Daten von Tierhaltern von nicht autorisierten Personen abfragen oder gar verfälschen, so kann dies enorme Auswirkungen, bis hin zum finanziellen Bankrott des betroffenen Unternehmens haben. Entsprechend ist das Qualitätsmerkmal „Sicherheit“ bei der Entwicklung der Vet:ProVieh Software auf unterschiedlichen Ebenen zu betrachten, um a) den Zugriff auf authentifizierte Nutzer (Personen und Rollen) zu beschränken, b) Datenintegrität zu gewährleisten, so dass Daten nicht unautorisiert und unbemerkt manipuliert werden können, c) Informationsvertraulichkeit zu gewährleisten, so dass nur autorisierte Nutzer konfigurierbare Sichten auf Informationen erlangen, sowie Aktionen ausführen können und d) Aktionen einzelnen Nutzern eindeutig zuzuordnen, um eine Verbindlichkeit durchgeführter Transaktionen zu garantieren.
 
 Es ist zu erwarten, dass bei einem Erfolg der Business 4.0 Lösung für Veterninärmediziner sehr viele Daten verwaltet werden müssen. Zudem bedarf es zur optimalen und möglichst automatisierten Unterstützung der schon weiter oben genannten Aufgaben, nämlich
-- Probleme bei der Nutztierhaltung zu identifizieren / analysieren / bewerten,
-- proaktive und reaktive Maßnahmen zu planen / überwachen / evaluieren und 
-- auf einer Wissensbasis Best-Practises abzuleiten, 
+* Probleme bei der Nutztierhaltung zu identifizieren / analysieren / bewerten,
+* proaktive und reaktive Maßnahmen zu planen / überwachen / evaluieren und 
+* auf einer Wissensbasis Best-Practises abzuleiten, 
 entsprechender Werkzeuge bzw. Systeme zur Datenanalyse. Im Rahmen dieses Projektes sollen die Themen Big-Data, Datenanalyse und Business Intelligence nur in soweit betrachtet werden, um Vorkehrungen für eine spätere Integration zu treffen und dies möglichst in der Software-Architektur vorzubereiten.
 
 Bei weiteren Fragen zum Projekt, wenden Sie sich gerne an den Projektleiter.
